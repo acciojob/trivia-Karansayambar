@@ -1,2 +1,14 @@
-
+body{
+	max-width:600px;
+	margin:10px;
+}
+p{
+	font-weight:bold;
+}
+blockquote{
+	width:100%;
+	padding:15px;
+	border-left:8px solid green;
+	background-color:#f8fffe;
+}
 /* Your CSS Code here. */
